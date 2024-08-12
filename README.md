@@ -12,7 +12,7 @@
 
 - 🤝 I had completed the project **Book-Recommendation System**
 
-- 💬 Ask me about **Data Scientist,Python Developer**
+- 💬 Ask me about **Data Scientist,Python Programmer**
 
 - 📫 How to reach me **vivekkrmaurya15@gmail.com**
 
